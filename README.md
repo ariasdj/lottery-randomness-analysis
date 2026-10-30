@@ -62,12 +62,12 @@ We are investigating three primary questions:
 
 - [X] Phase-0: Form team, select dataset, and submit proposal
 - [X] Phase-1: Define methods, metrics, tools, and create GitHub repository
-- [] Download data files and build `data_prep.py` script
-- [] Implement and run Q1 analysis (frequency & chi-square test)
-- [] Implement and run Q2 analysis (sum distributions & t-test)
-- [] Implement and run Q4 analysis (gap tracking & geometric fit)
-- [] Draft final results, conclusions, and individual reflections (Phase-3)
-- [] Record video demo and compile final presentation PDF (Phase-3)
+- [ ] Download data files and build `data_prep.py` script
+- [ ] Implement and run Q1 analysis (frequency & chi-square test)
+- [ ] Implement and run Q2 analysis (sum distributions & t-test)
+- [ ] Implement and run Q4 analysis (gap tracking & geometric fit)
+- [ ] Draft final results, conclusions, and individual reflections (Phase-3)
+- [ ] Record video demo and compile final presentation PDF (Phase-3)
 
 
 ## 7. References
