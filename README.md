@@ -1,6 +1,6 @@
 # lottery-randomness-analysis
 **ENGR 315: Computational Methods in Engineering | Fall 2026**  
-**Team:** Winning Team (Dylan Hartman, Evan Foresman, Diego Arias)
+**Team:** 404 Luck Not Found Team (Dylan Hartman, Evan Foresman, Diego Arias)
 
 
 ## 1. Objective and Motivation
